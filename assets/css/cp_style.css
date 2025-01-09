@@ -91,7 +91,8 @@ body {
 }
 
 #setBg{
-/*  overflow-y: scroll;*/
+overflow-y: scroll;
+height: 50vh;
 }
 .settings-area{
   padding-right: 5px;
